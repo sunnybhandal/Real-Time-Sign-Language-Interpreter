@@ -1,4 +1,4 @@
-# Real-Time-Sign-Language-Interpreter
+# Real Time Sign Language Interpreter
 
 ## Purpose
 Creating subtitles for sign language phrases. This can also be used as a tool to learn sign language.
