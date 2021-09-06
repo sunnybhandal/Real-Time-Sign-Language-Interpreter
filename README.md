@@ -12,4 +12,4 @@ LSTM model with 3 LSTM layers and 3 dense layers
 - Categorical Classifier
 
 ## Packages
-Sklearn, TensorFlow, cv2, NumPy, os, Matplotlib, mediapipe
+Sklearn, TensorFlow, cv2, NumPy, Matplotlib, MediaPipe
