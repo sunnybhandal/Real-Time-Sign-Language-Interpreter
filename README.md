@@ -2,7 +2,7 @@
 
 ## Purpose
 Create subtitles for sign language phrases using action recognition (MediaPipe). Model is built using Python.
-- Currently can handle the phrases hello, goodbye, yes, no, name, thanks.
+- Currently can handle six phrases (hello, goodbye, yes, no, name, thanks).
 
 ## Demo
 Live demo = Final_Demo.mp4
